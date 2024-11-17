@@ -24,7 +24,7 @@ Real estate prices are influenced by multiple factors, including location, prope
 ## **Tech Stack**  
 - **Programming Languages**: Python  
 - **Libraries/Tools**:  
-  - Data Scraping: `BeautifulSoup`, `Selenium`  
+  - Data Scraping:  `Selenium`  
   - Data Cleaning & Analysis: `Pandas`, `NumPy`  
   - Data Visualization: `Matplotlib`, `Seaborn`, `Power BI`  
 
