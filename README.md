@@ -44,7 +44,7 @@ Collected features include:
 ## **Project Workflow**  
 
 ### **1. Data Collection**  
-- Scraped data using tools like `BeautifulSoup` and `Selenium`.  
+- Scraped data using tools like `Selenium`.  
 - Extracted relevant features: price, location, square footage, amenities.  
 
 ### **2. Data Cleaning**  
@@ -67,7 +67,7 @@ Collected features include:
 3. **Market Trends**:  
    - Cities like **Mumbai** and **Delhi** are experiencing consistent price growth due to gentrification.  
 5. **Impact of Amenities**:  
-   - Properties with pools, clubhouse, or parking spaces can command up to 10% higher prices.  
+   - Properties with pools, club house or parking spaces can command up to 10% higher prices.  
 6. **Economic Factors**: Rising interest rates reduce market activity, negatively affecting home affordability.  
 
 ---
@@ -88,7 +88,7 @@ Collected features include:
 ## Contact  
 For queries or contributions:  
 
-- **Name**: Mayur Lohar, Salil Singh , Ashish Dabas , Mahalaxmi Mareedu , Alpana Sahu 
+- **Name**: Mayur Lohar, Salil Singh , Ashish Dabas ,Sri Mahalakshmi Mareedu , Alpana Sahu 
 - **Email**: [loharmayur43@gmail.com](loharmayur43@gmail.com)  
 - **GitHub**: [github.com/Mayur313](https://github.com/Mayur313)  
 - **LinkedIn**: [https://www.linkedin.com/in/mayur-lohar-8b182732a/](https://www.linkedin.com/in/mayur-lohar-8b182732a/)  
