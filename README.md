@@ -89,6 +89,18 @@ Collected features include:
 For queries or contributions:  
 
 - **Name**: Mayur Lohar, Salil Singh , Ashish Dabas ,Sri Mahalakshmi Mareedu, Alpana Sahu 
-- **Email**: [loharmayur43@gmail.com](loharmayur43@gmail.com)  
-- **GitHub**: [github.com/Mayur313](https://github.com/Mayur313) 
-- **LinkedIn**: [https://www.linkedin.com/in/mayur-lohar-8b182732a/](https://www.linkedin.com/in/mayur-lohar-8b182732a/)  
+- **Email**: [loharmayur43@gmail.com](loharmayur43@gmail.com)
+             [salilsingh709@gmail.com](salilsingh709@gmail.com)
+             [ashusinghdabas@gmail.com](ashusinghdabas@gmail.com)
+             [mahamareedu962@gmail.com](mahamareedu962@gmail.com)
+             [alpanasahu@gmail.com](alpanasahu@gmail.com)            
+- **GitHub**: [github.com/Mayur313](https://github.com/Mayur313)
+              [github.com/Salil-Singh-01](https://github.com/Salil-Singh-01)
+              [github.com/AshuSingh96](https://github.com/AshuSingh96)
+              [github.com/smlmareedu](https://github.com/smlmareedu)
+              [github.com/AlpanaSahu11](https://github.com/AlpanaSahu11)
+- **LinkedIn**: [linkedin.com/in/mayur-lohar-8b182732a/](https://www.linkedin.com/in/mayur-lohar-8b182732a/)
+                [linkedin.com/in/salil-singh-7164a6287](https://www.linkedin.com/in/salil-singh-7164a6287)
+                [linkedin.com/in/ashudabas96/](https://www.linkedin.com/in/ashudabas96/)
+                [linkedin.com/in/maha-lakshmi-mareedu](https://linkedin.com/in/www.linkedin.com/in/maha-lakshmi-mareedu-bb3208259)
+                [linkedin.com/in/alpana-sahu](https://linkedin.com/in/https://www.linkedin.com/in/alpana-sahu-b6bb6b1b3/)
