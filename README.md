@@ -77,9 +77,11 @@ Collected features include:
 
 ## **Dashboard Screenshot** :
 
-![Dashboard Screenshot - 1](https://drive.google.com/file/d/1DvAWmHmZPXILaMjlPWzugxd4cayApdfo/view?usp=sharing)
+## Page 1
+![Page 1](https://drive.google.com/uc?export=view&id=1DvAWmHmZPXILaMjlPWzugxd4cayApdfo)
 
-![Dashboard Screenshot - 2](https://drive.google.com/file/d/1NfS--DdIR0C_AekDnjyEuU2EU-ebL5xP/view?usp=sharing)
+## Page 2
+![Page 2](https://drive.google.com/uc?export=view&id=1NfS--DdIR0C_AekDnjyEuU2EU-ebL5xP)
 
 ---
 
