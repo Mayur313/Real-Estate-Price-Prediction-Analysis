@@ -88,7 +88,7 @@ Collected features include:
 ## Contact  
 For queries or contributions:  
 
-- **Name**: Mayur Lohar, Salil Singh , Ashish Dabas ,Sri Mahalakshmi Mareedu , Alpana Sahu 
+- **Name**: [Mayur Lohar][github.com/Mayur313], Salil Singh , Ashish Dabas ,[Sri Mahalakshmi Mareedu][github.com/smlmareedu], Alpana Sahu 
 - **Email**: [loharmayur43@gmail.com](loharmayur43@gmail.com)  
 - **GitHub**: [github.com/Mayur313](https://github.com/Mayur313)  
 - **LinkedIn**: [https://www.linkedin.com/in/mayur-lohar-8b182732a/](https://www.linkedin.com/in/mayur-lohar-8b182732a/)  
