@@ -85,26 +85,26 @@ Collected features include:
 
 ---
 
-## Contact  
+## **Contact**  
 For queries or contributions:  
 
-- **Name** : Mayur Lohar, Salil Singh , Ashish Dabas ,Sri Mahalakshmi Mareedu, Alpana Sahu
+### **Name** : Mayur Lohar, Salil Singh , Ashish Dabas ,Sri Mahalakshmi Mareedu, Alpana Sahu
  
-- **Emails** :
+### **Emails** :
 - [loharmayur43@gmail.com](mailto:loharmayur43@gmail.com)  
 - [salilsingh709@gmail.com](mailto:salilsingh709@gmail.com)  
 - [ashusinghdabas@gmail.com](mailto:ashusinghdabas@gmail.com)  
 - [mahamareedu962@gmail.com](mailto:mahamareedu962@gmail.com)  
 - [alpanasahu@gmail.com](mailto:alpanasahu@gmail.com)  
 
--**GitHub Profiles** :
+### **GitHub Profiles** :
 - [github.com/Mayur313](https://github.com/Mayur313)  
 - [github.com/Salil-Singh-01](https://github.com/Salil-Singh-01)  
 - [github.com/AshuSingh96](https://github.com/AshuSingh96)  
 - [github.com/smlmareedu](https://github.com/smlmareedu)  
 - [github.com/AlpanaSahu11](https://github.com/AlpanaSahu11)  
 
-- **LinkedIn Profiles** :
+### **LinkedIn Profiles** :
 - [linkedin.com/in/mayur-lohar-8b182732a/](https://www.linkedin.com/in/mayur-lohar-8b182732a/)  
 - [linkedin.com/in/salil-singh-7164a6287](https://www.linkedin.com/in/salil-singh-7164a6287)  
 - [linkedin.com/in/ashudabas96/](https://www.linkedin.com/in/ashudabas96/)  
