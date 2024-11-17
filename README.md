@@ -11,13 +11,13 @@ This project aims to analyze historical real estate pricing data to predict futu
 3. [Data Sources](#data-sources)  
 4. [Project Workflow](#project-workflow)  
 5. [Insights & Findings](#insights--findings)  
-6. [How to Run the Project](#how-to-run-the-project)  
+6. [How to View the Project](#how-to-run-the-project)  
 7. [Contact](#contact)  
 
 ---
 
 ## **Introduction**  
-Real estate prices are influenced by multiple factors, including location, property size, and economic conditions. This project leverages data science techniques to analyze these variables, revealing trends and providing predictive models for future price forecasting.  
+Real estate prices are influenced by multiple factors, including location, property size, and economic conditions..  
 
 ---
 
@@ -27,20 +27,17 @@ Real estate prices are influenced by multiple factors, including location, prope
   - Data Scraping: `BeautifulSoup`, `Selenium`  
   - Data Cleaning & Analysis: `Pandas`, `NumPy`  
   - Data Visualization: `Matplotlib`, `Seaborn`, `Power BI`  
-  - Machine Learning: `Scikit-learn`, `XGBoost`  
 
 ---
 
 ## **Data Sources**  
 The data is sourced through web scraping from real estate platforms like:  
-1. [99acres.com](https://www.99acres.com)  
-2. [Zillow](https://www.zillow.com)  
-3. [Realtor](https://www.realtor.com)  
+1. [squareyards.com](https://www.squareyards.com/?source=fyEmgc3%2FD3F2sUtf6c4d6Q%3D%3D0n&gclid=Cj0KCQiAouG5BhDBARIsAOc08RTXCl6_3USKv007I7H7A2lHejiH6IdwtJDljlVZBNK09WwVot8PMbcaAmlsEALw_wcB&gad_source=1)
 
 Collected features include:  
-- **Property Details**: Location, size (sq. ft), price, type (apartment/house).  
-- **Amenities**: Parking, pool, home office, etc.  
-- **Market Conditions**: Seasonal trends, interest rates.  
+- **Property Details**: Location, Size (sq. ft), Price, Type (apartment/house), Amenities, Property Info.  
+- **Amenities**: Parking, Pool, Clubhouse, etc.  
+- **Market Conditions**: Interest rates, Amenities Impacting Price.  
 
 ---
 
@@ -59,11 +56,7 @@ Collected features include:
 - **Python**: Used `Matplotlib` and `Seaborn` for scatter plots and bar charts to explore feature correlations.  
 - **Power BI**: Created an interactive dashboard to visualize:  
   - Price trends across regions and property types.  
-  - Comparative analysis based on amenities and seasonal trends.  
-
-### **4. Predictive Modeling**  
-- Applied machine learning models like **Linear Regression** and **Random Forest** to predict property prices.  
-- Evaluated model performance using metrics like RMSE and R-squared.  
+  - Comparative analysis based on amenities.  
 
 ---
 
@@ -71,13 +64,29 @@ Collected features include:
 
 1. **Location Premium**: Properties in downtown areas are 20-30% costlier than suburban properties.  
 2. **Property Size**: Larger properties (>3000 sq. ft) have a premium of 15-25%.  
-3. **Seasonal Trends**:  
-   - Prices tend to increase during **spring** and **summer**.  
-   - Winter months often see a slight drop in prices.  
-4. **Market Trends**:  
-   - Cities like **San Francisco** and **New York** are experiencing consistent price growth due to gentrification.  
+3. **Market Trends**:  
+   - Cities like **Mumbai** and **Delhi** are experiencing consistent price growth due to gentrification.  
 5. **Impact of Amenities**:  
-   - Properties with pools, home offices, or parking spaces can command up to 10% higher prices.  
+   - Properties with pools, clubhouse, or parking spaces can command up to 10% higher prices.  
 6. **Economic Factors**: Rising interest rates reduce market activity, negatively affecting home affordability.  
 
 ---
+
+## **Dashboard** :
+- Use Power BI to open the provided .pbix file for an interactive experience.
+
+## **Dashboard Screenshot** :
+
+![Dashboard Screenshot - 1](https://drive.google.com/file/d/1DvAWmHmZPXILaMjlPWzugxd4cayApdfo/view?usp=sharing)
+
+![Dashboard Screenshot - 2](https://drive.google.com/file/d/1NfS--DdIR0C_AekDnjyEuU2EU-ebL5xP/view?usp=sharing)
+
+---
+
+## Contact  
+For queries or contributions:  
+
+- **Name**: Mayur Lohar, Salil Singh , Ashish Dabas , Mahalaxmi Mareedu , Alpana Sahu 
+- **Email**: [loharmayur43@gmail.com](loharmayur43@gmail.com)  
+- **GitHub**: [github.com/Mayur313](https://github.com/Mayur313)  
+- **LinkedIn**: [https://www.linkedin.com/in/mayur-lohar-8b182732a/](https://www.linkedin.com/in/mayur-lohar-8b182732a/)  
