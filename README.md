@@ -11,7 +11,7 @@ This project aims to analyze historical real estate pricing data to predict futu
 3. [Data Sources](#data-sources)  
 4. [Project Workflow](#project-workflow)  
 5. [Insights & Findings](#insights--findings)  
-6. [How to View the Project](#how-to-run-the-project)  
+6. [Dashboard](#Dashboard)  
 7. [Contact](#contact)  
 
 ---
