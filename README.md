@@ -72,7 +72,7 @@ Collected features include:
 
 ---
 
-## **Dashboard** :
+## **Dashboard**
 - Use Power BI to open the provided .pbix file for an interactive experience.
 
 ## **Dashboard Screenshot** :
