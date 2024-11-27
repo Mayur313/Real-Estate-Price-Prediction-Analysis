@@ -78,10 +78,10 @@ Collected features include:
 ## **Dashboard Screenshot** :
 
 ## Page 1
-![Page 1](https://drive.google.com/uc?export=view&id=1DvAWmHmZPXILaMjlPWzugxd4cayApdfo)
+![Page 1](https://drive.google.com/uc?export=view&id=1XgAKMcTKk5RTPwf7aJbFQ_nRjwwOHRMy)
 
 ## Page 2
-![Page 2](https://drive.google.com/uc?export=view&id=1NfS--DdIR0C_AekDnjyEuU2EU-ebL5xP)
+![Page 2](https://drive.google.com/uc?export=view&id=1V7PiRhNksuIy06YnS0_MvGumNeMvHrr0)
 
 ---
 
